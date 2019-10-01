@@ -1,20 +1,26 @@
 /**/
-.container{
+.container {
   background-color:#0D0D0D;
 }
-h1{
+h1 {
   text-align: center;
-  
 }
-.corpo{
+/* Font Color */
+.color {
+  color: #ffffff;
+}
+.corpo {
   margin-top: 100px; 
 }
-button{
+button {
   background-color:#F27405;
   color: white;
   font-size: 10px;
 }
-.jumbotron{
+.jumbotron {
 margin-top: 40px;
-background: #6F7302;
+background-image: url(../../res/images/fundo-pizza.jpg);
+background-repeat: no-repeat;
+background-position: 50%;
+background-size: 100%;
 }
